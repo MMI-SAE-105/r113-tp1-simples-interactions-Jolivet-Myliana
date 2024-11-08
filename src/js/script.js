@@ -1,4 +1,3 @@
-// TODO
-const aMettreEnRouge=document.querySelector("#a-mettre-en-rouge")
-aMettreEnRouge.style.color="red"
+const aMettreEnRouge = document.querySelector("#a-mettre-en-rouge");
+aMettreEnRouge.style.color = "red";
 
