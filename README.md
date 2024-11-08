@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Jolivet
+- prénom : Myliana
+- URL Netlify : https://tiny-cassata-463165.netlify.app
 
 # Travail
 
